@@ -1,0 +1,16 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "SeqSEE",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.28",
+    "bip39": "^3.0.3"
+  }
+}
